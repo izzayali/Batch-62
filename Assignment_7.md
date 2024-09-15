@@ -1,6 +1,6 @@
 # Assignment No. 07 Markdown
 ## Step no.1:
-![Python Code Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tutorialgateway.org%2Fpython-program-to-find-prime-number%2F&psig=AOvVaw36bAcMzuUeDRVPQjvzXRUW&ust=1726465610314000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDo86igxIgDFQAAAAAdAAAAABAI)
+![Python Code Image](https://res.cloudinary.com/practicaldev/image/fetch/s--5HkvaNUg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o1ltxvdi8spki6tx66zv.png)
 ### First of all we take input fron the user.
 ## Step no. 2:
 ### In this step we enter user's three favourite numbers.
